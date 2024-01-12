@@ -15,7 +15,7 @@ O arquivo "Web Scraping Site B3.R" é a rotina de obtenção de dados financeiro
 
 ENGLISH
 
-This repository contains code for the generation of the posteriori distribution of the variables and parameters of the dynamic Nelson-Siegel model.
+This repository contains the codes for the generation of the posteriori distribution of the variables and parameters of the dynamic Nelson-Siegel model.
 
 The file "Modelo Nelson e Siegel Dinamico versão normal.R" is a R routine that generates 5,000 samples of the posteriori distribution of the gaussian dynamic Nelson-Siegel model originally proposed by Diebold and Li after 100,000 iteractions.
 
